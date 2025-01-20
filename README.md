@@ -1,29 +1,45 @@
-# 🎉 Sorteo de Amigo Secreto  
+# Amigo Secreto 🎉
 
-![Banner](https://static.vecteezy.com/system/resources/previews/000/829/812/non_2x/binary-code-banner-vector.jpg)  
+## Descripción
+Este es un proyecto de aplicación web para realizar un sorteo de "Amigo Secreto". Permite a los usuarios ingresar nombres de amigos en una lista y luego seleccionar aleatoriamente quién será el "amigo secreto". 
 
-Una aplicación interactiva para organizar un sorteo de "Amigo Secreto". Permite agregar nombres, visualizarlos en una lista y seleccionar aleatoriamente un ganador. Este proyecto fue desarrollado como parte del curso de **Lógica de Programación** en Alura Latam, reforzando conceptos clave de programación como funciones, listas y manipulación del DOM con JavaScript.
+### Funcionalidades:
+1. **Agregar nombres**: Los usuarios pueden escribir un nombre en un campo de texto y agregarlo a una lista visible en la página haciendo clic en el botón "Adicionar".
+2. **Validación de entrada**: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
+3. **Visualizar la lista**: Los nombres ingresados se mostrarán en una lista debajo del campo de entrada.
+4. **Sorteo aleatorio**: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará como el "Amigo Secreto".
 
-## 📝 Descripción  
-El propósito de este proyecto es aplicar conceptos fundamentales de lógica de programación mientras se crea una herramienta práctica y divertida.  
-Con esta aplicación, los usuarios pueden:  
-- Agregar nombres de amigos a una lista.  
-- Ver los nombres ingresados en tiempo real.  
-- Realizar un sorteo aleatorio para determinar quién será el "amigo secreto".  
+## Tecnologías utilizadas
+- **HTML5**: Estructura básica de la página web.
+- **CSS3**: Estilos visuales y diseño de la interfaz.
+- **JavaScript**: Lógica del sorteo aleatorio y manipulación del DOM para agregar y visualizar los nombres.
 
----
+## ¿Cómo usarlo?
 
-## 🛠️ Tecnologías Utilizadas  
-- **HTML5**: Para la estructura básica de la aplicación.  
-- **CSS3**: Para el diseño y estilo visual.  
-- **JavaScript**: Para la lógica, interactividad y manipulación del DOM.  
+1. Abre el archivo `index.html` en tu navegador.
+2. Ingresa los nombres de los amigos en el campo de texto y haz clic en el botón **"Adicionar"** para agregarlos a la lista.
+3. Si intentas agregar un nombre vacío, el sistema te mostrará una alerta para que ingreses un nombre válido.
+4. Cuando termines de ingresar los nombres, haz clic en el botón **"Sortear Amigo"** para realizar el sorteo y ver quién es el "Amigo Secreto".
 
----
+## Funcionalidades de la aplicación
 
-## 🙌 Agradecimientos
+- **Agregar amigos**: Puedes añadir amigos a la lista simplemente escribiendo su nombre y presionando el botón "Adicionar".
+- **Sorteo aleatorio**: Al presionar el botón "Sortear Amigo", uno de los nombres de la lista será seleccionado de manera aleatoria.
+  
+## Capturas de pantalla
 
-- Quiero agradecer a:
+![Captura de pantalla 1](ruta/a/imagen.jpg)
+*Descripción de la captura.*
 
-  - Alura Latam y Oracle por brindar esta gran oportunidad de aprendizaje.
-  - Mis instructores Christian Velasco y Leonardo José Castillo Lacruz por su excelente guía y apoyo.
+## Instalación
 
+Este proyecto no requiere instalación adicional. Solo debes abrir el archivo `index.html` en tu navegador preferido para comenzar a usar la aplicación.
+
+## Contribuciones
+
+Si deseas contribuir al proyecto, puedes hacer un fork de este repositorio y enviar un pull request con las mejoras o correcciones que hayas realizado.
+
+## Agradecimientos
+
+- A Alura Latam y Oracle por la oportunidad de aprendizaje.
+- A los instructores **Christian Velasco** y **Leonardo Jose Castillo Lacruz** por su apoyo y orientación durante el curso.
