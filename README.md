@@ -29,7 +29,7 @@ Este es un proyecto de aplicación web para realizar un sorteo de "Amigo Secreto
 ## Capturas de pantalla
 
 ![Captura de pantalla 1](/assets/Evidencia.png)
-*Descripción de la captura.*
+*Prueba de funcionalidad de la aplicación web*
 
 ## Instalación
 
